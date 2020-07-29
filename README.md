@@ -14,7 +14,7 @@ The bare values required to get the test working (bar the actual password value)
   },
 
   "current_env": "dev",
-  "url": "https://stirling.she-development.net/automation",
+  "url": "*******************************",
 
   "users": [
               {
