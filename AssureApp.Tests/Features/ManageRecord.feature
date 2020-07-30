@@ -22,6 +22,5 @@ Scenario: Create a new record in the Air Emissions module
 @deleteRecord
 Scenario: Delete an existing record in the Air Emissions module
 	Given I open the Air Emissions page
-	And I locate the target record
 	When I delete the record
 	Then the record should no longer be visible on the page
